@@ -1,3 +1,22 @@
+# Politics on Wikipedia
+_An exploration of political bias in Wikipedia articles_
+
+
+## Background
+
+## Partyembed Model
+
+## Gentzkow and Shapiro Model
+
+## Results
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MrYanchos/PoW/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
