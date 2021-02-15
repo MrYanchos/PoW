@@ -1,6 +1,6 @@
 layout: page
 title: "Further Details"
-permalink: /further-details/
+permalink: /PoW/further-details/
 
 # The Inner Workings of the Models
 
