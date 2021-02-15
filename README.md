@@ -20,6 +20,10 @@ Description of Partyembed
 
 Description of G&S
 
+### Further details of the models
+
+[Click here to learn more](https://mryanchos.github.io/PoW/further-details/)
+
 ## Results
 
 ### _Model Comparisons_
