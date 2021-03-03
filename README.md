@@ -4,7 +4,9 @@ _An exploration of political bias in Wikipedia articles_
 
 ## Background
 
-Why it is important and what we did
+The ubiquity of Wikipedia and the current salience of politics encouraged us to study their impact on Wikipedia. Pew research has found that in the United States, political division is [increasing, and is most present among the most politically active](https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/). With Wikipedia being the default source for most people, this could bode poorly for the articles.
+
+Researchers have dug into this topic before, using a variety of strategies to analyze bias. Here, we decided to take a look at a few of these strategies and compare their results, in an effort to find out the strengths of these different strategies and perhaps find locations where one strategy is more effective than another.
 
 ## Models
 
