@@ -1,5 +1,5 @@
 # Politics on Wikipedia
-_An exploration of political bias in Wikipedia articles_
+_An exploration of political slant in Wikipedia articles_
 
 
 ## Background
